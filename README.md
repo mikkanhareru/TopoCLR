@@ -1,4 +1,4 @@
-TopoCLR learns molecular topology representations and provides the foundation for the subsequent structure refinement process. Therefore, users should first run the scripts inside this directory before executing the Iterative Refiner scripts in the main directory.
+TopoCLR learns molecular topology representations and provides the foundation for the subsequent structure refinement process. 
 
 This repository provides scripts for preprocessing molecular structures, pretraining the TopoCLR, and evaluating the pretrained model on downstream molecular-topology or performance tasks.
 
